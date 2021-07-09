@@ -1,0 +1,12 @@
+package com.citius.msone;
+
+@RestController 
+public class OneController {
+	
+@GetMapping 
+public String[] getMessage() {
+	return new String[] {"Hello World","Welcome"};
+}
+	
+
+}

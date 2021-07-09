@@ -1,0 +1,4 @@
+MSTWO_URL=http://localhost
+spring.application.name=msone
+server.port=8080
+

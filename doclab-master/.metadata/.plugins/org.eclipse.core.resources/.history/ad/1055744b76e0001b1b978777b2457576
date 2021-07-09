@@ -1,0 +1,3 @@
+spring.application.name=msone
+server.port=8080
+
